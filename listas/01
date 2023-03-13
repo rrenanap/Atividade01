@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+      <meta charset="utf-8">
+      <title> Execício </title>
+   </head>   
+   
+   <body>      
+    <h2> 01. Crie uma página HTML que contenha uma lista compras. </h2>
+      <ul>
+        <li>Queijo</li>
+        <li>Presunto</li>
+        <li>Pão</li>
+       </ul>
+
+    <h2>02. Crie uma página HTML que contenha os grupos da Copa do Mundo de 2022
+    com os seus respectivos países. </h2>
+    
+      <ul>
+        <li> Alemanha <img src="  "
+    
+
+
+      
+  
+  
+  </body>
+
+</html>
